@@ -131,8 +131,7 @@ Aqui estão algumas formas de ajudar:
 ## 📜 **Licença**
 Este projeto é open-source.
 
-🚀 Criado por [Renan Marques](https://github.com/RenanBjj) com ❤️ e muita automação 🤖!
-
+---
 
 ## 📬 **Contato**
 
@@ -144,4 +143,6 @@ Para dúvidas ou sugestões:
   - [Email](mailto:renanbjj88@gmail.com)
 
 ---
+
+🚀 Criado por [Renan Marques](https://github.com/RenanBjj) com ❤️ e muita automação 🤖!
 ```
