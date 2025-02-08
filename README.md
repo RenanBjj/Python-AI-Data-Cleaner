@@ -132,5 +132,16 @@ Aqui estão algumas formas de ajudar:
 Este projeto é open-source.
 
 🚀 Criado por [Renan Marques](https://github.com/RenanBjj) com ❤️ e muita automação 🤖!
-```
 
+
+## 📬 **Contato**
+
+Para dúvidas ou sugestões:
+
+- **Renan Marques**
+  - [GitHub](https://github.com/RenanBjj)
+  - [LinkedIn](https://www.linkedin.com/in/renan-marques-rodrigues/)
+  - [Email](mailto:renanbjj88@gmail.com)
+
+---
+```
