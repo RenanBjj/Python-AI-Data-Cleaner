@@ -10,7 +10,7 @@
 ---
 
 ## 📌 **Funcionalidades Principais**
-✅ **🛠️ Transformação Automática de Dados**
+✅ **🛠️ Transformação Automática de Dados** 
 ✅ **📊 Análises Exploratórias Dinâmicas**
 ✅ **🔍 Limpeza Inteligente de Dados**
 ✅ **🤖 Integração com OpenAI para Sugestões Automáticas**
